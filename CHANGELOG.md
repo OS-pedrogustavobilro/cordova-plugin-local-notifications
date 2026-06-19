@@ -1,3 +1,11 @@
+## [0.9.17](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.16...0.9.17) (2026-06-19)
+
+
+### Bug Fixes
+
+* **ci:** node version ([cdfbfa9](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/commit/cdfbfa9f055f28580a66feda0b9932962b89e053))
+* correct changelog ([eee6725](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/commit/eee67256502b1f41ec8d327ea81dade27d3df40d))
+
 ## ChangeLog (old)
 ---------
 
