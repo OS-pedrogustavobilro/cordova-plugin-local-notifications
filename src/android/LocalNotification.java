@@ -296,7 +296,7 @@ public class LocalNotification extends CordovaPlugin {
                 boolean found = ActionGroup.isRegistered(id);
                 success(command, found);
                 break;
-            case 3:
+            case 3: // comment
                 break;
         }
     }
