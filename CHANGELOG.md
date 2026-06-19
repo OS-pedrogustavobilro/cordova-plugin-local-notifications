@@ -1,3 +1,10 @@
+## [0.9.18](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.17...0.9.18) (2026-06-19)
+
+
+### Features
+
+* mock change ([#2](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/issues/2)) ([586049e](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/commit/586049e4e8d5f6c898d45f3dfc059922e858165e))
+
 ## [0.9.17](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.16...0.9.17) (2026-06-19)
 
 
