@@ -1,3 +1,5 @@
+## [0.9.20](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.19...0.9.20) (2026-06-19)
+
 ## [0.9.19](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.18...0.9.19) (2026-06-19)
 
 
