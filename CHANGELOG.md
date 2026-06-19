@@ -1,3 +1,15 @@
+## [0.9.19](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.18...0.9.19) (2026-06-19)
+
+
+### Features
+
+* **ios:** mock feature with breaking change ([2a3011d](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/commit/2a3011d75110e95e3b25e99dcdf984e3a5424eb2))
+
+
+### BREAKING CHANGES
+
+* **ios:** This is the part where we explain the breaking change
+
 ## [0.9.18](https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications/compare/0.9.17...0.9.18) (2026-06-19)
 
 
