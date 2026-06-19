@@ -3,6 +3,7 @@ const xml2js = require('xml2js');
 
 module.exports = {
   branches: ['outsystems'],
+  repositoryUrl: 'https://github.com/OS-pedrogustavobilro/cordova-plugin-local-notifications.git',
   tagFormat: '${version}',
   plugins: [
     [
